@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# project\\Homework3\\Homework3.csproj": {}
+    "D:\\C# project\\Homework3\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "D:\\C# project\\Homework3\\Homework3.csproj": {
+    "D:\\C# project\\Homework3\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# project\\Homework3\\Homework3.csproj",
-        "projectName": "Homework3",
-        "projectPath": "D:\\C# project\\Homework3\\Homework3.csproj",
+        "projectUniqueName": "D:\\C# project\\Homework3\\Task1\\Task1.csproj",
+        "projectName": "Task1",
+        "projectPath": "D:\\C# project\\Homework3\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\vkono\\.nuget\\packages\\",
-        "outputPath": "D:\\C# project\\Homework3\\obj\\",
+        "outputPath": "D:\\C# project\\Homework3\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vkono\\AppData\\Roaming\\NuGet\\NuGet.Config"
